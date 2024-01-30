@@ -1,0 +1,64 @@
+body {
+    background-color: #473a8d;
+  }
+  .Main {
+    margin-left: 9vw;
+    background: white;
+    width: 80%;
+    height: 40vw;
+    margin-top: 5vw;
+  }
+  .question {
+    color: black;
+    text-align: center;
+    padding-top: 5vw;
+  }
+  .Totalquestions {
+    padding-left: 2vw;
+  }
+  p {
+    padding-top: 2vw;
+    text-align: center;
+    font-size:18px;
+  }
+  .options {
+    display: flex;
+    margin-top: 3vw;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .option {
+    background-color: #1ea1f1;
+    margin: 2vw;
+    width: 30vw;
+    height: 2.5vw;
+    border-radius: 20px;
+    color: white;
+    border-style: none;
+  }
+  .button {
+    margin: 0 2vw 2vw 0;
+    width: 6vw;
+    border-radius: 0;
+    height: 2vw;
+    color: black;
+    font-weight: bold;
+  }
+  .buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 3vw;
+  }
+  #previous {
+    background-color: #3e7eaa;
+  }
+  #next {
+    background-color: #019c01;
+  }
+  #quit {
+    background-color: #e10404;
+  }
+  #finish {
+    background-color: #ffffff;
+    
+  }

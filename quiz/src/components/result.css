@@ -1,0 +1,63 @@
+/* result.css */
+
+.main {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-left: 40px;
+  }
+  
+  .text {
+    color: #ff6347; /* Tomato color for a warning message */
+    
+  }
+  
+  .Score {
+    color: #4caf50; /* Green color for the score */
+  }
+  
+  .info {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .Buttons {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff; /* Blue color for the buttons */
+    color: #0b0b0b;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+
+    
+  }
+  
+  h3 {
+    color: #ff6347;
+    
+  }
+  
+  /* Add any additional styles based on your design preferences */
+  

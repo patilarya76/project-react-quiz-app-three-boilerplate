@@ -1,0 +1,18 @@
+.home {
+    height: 40vw;
+    background-color: #473a8d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+   margin-left: 700px;
+}
+#homeplay {
+    width: 13vw;
+    height: 2vw;
+    background-color: #0ab306;
+    border-radius: 20px;
+    cursor: pointer;
+    color: white;
+}
